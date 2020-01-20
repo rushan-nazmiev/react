@@ -6,3 +6,7 @@ ReactDOM.render(
     <App/>,
     document.getElementById('wrapper')
 );
+ReactDOM.render(
+    <App/>,
+    document.getElementById('wrapper')
+);
